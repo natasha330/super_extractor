@@ -23,7 +23,7 @@ logging:
   # Log format string (Python logging.Formatter)
   format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
   # Path to the log file (relative or absolute)
-  file: "logs/live_monitor.log"
+  file: "live_monitor.log"
   # Optional rotating file settings
   max_file_size: "50MB"
   backup_count: 5
